@@ -386,3 +386,14 @@ C:\Users\mukan  sharma\OneDrive\Desktop\TPC_Management\backend\src\controllers\j
        })
 
 Unknown field `company` for include statement on model `Job`. Available options are marked with ?.
+2026-10-28 07:19:42 [INFO]: POST /api/auth/register - IP: ::1
+2026-10-28 07:31:26 [INFO]: POST /api/auth/register - IP: ::1
+2026-10-28 07:34:29 [INFO]: POST /api/auth/register - IP: ::1
+2026-10-28 07:35:12 [INFO]: POST /api/auth/login - IP: ::1
+2026-10-28 07:36:09 [INFO]: POST /api/auth/login - IP: ::1
+2026-10-28 07:36:38 [INFO]: POST /api/auth/login - IP: ::1
+2026-10-28 07:36:56 [INFO]: POST /api/auth/login - IP: ::1
+2026-10-28 07:38:03 [INFO]: POST /api/auth/login - IP: ::1
+2026-10-28 07:39:49 [INFO]: POST /api/auth/login - IP: ::1
+2026-10-28 07:39:49 [WARN]: Login rate limit exceeded: IP ::1, Email: muskansharmax124@gmail.com
+2026-10-28 07:44:23 [INFO]: POST /api/auth/register - IP: ::1
